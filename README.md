@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There👋😄)](https://git.io/typing-svg)
 
 <!--
 **meet-pat619/meet-pat619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
